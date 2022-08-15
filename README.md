@@ -8,7 +8,11 @@ Start Project-> https://github.com/verah-tech/demoreactapp.git
 VS Code Terminal:
 
 npm install
+
 node server.js
+
 cd client
+
 npm install
+
 npm start
